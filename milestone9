@@ -1,35 +1,5 @@
-[9:20 PM, 7/31/2022] 20NN1A0571: <!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>food website design by saipriya </title>
-    <!--Web Guru-->
-    <!-- font awesome cdn link  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
-    <!-- custom css file link  -->
-    <link rel="stylesheet" href="style.css">
-
-</head>
-
-<body>
-
-    <!-- header section starts  -->
-
-    <header>
-
-        <a href="#" class="logo"><i class="fas fa-utensils"></i>sai'sfood</a>
-
-        <div id="menu-bar" class="fas fa-bars"></div>
-
-        <nav class="navbar">
-            <a href="#home">home</a>
-            <a href="#speciality">speciality</a>
-        …
-[9:20 PM, 7/31/2022] 20NN1A0571: Milestone 5
-[9:20 PM, 7/31/2022] 20NN1A0571: <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <body>
